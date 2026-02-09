@@ -2,7 +2,7 @@
 
 Table of Contents
 -  [Desktop](#placeholder)
--  [Browsers](#CHAPTERS/browsers.md)
+-  [Browsers](CHAPTERS/browsers.md)
 -  [Office](#placeholder)
 -  [Data transfer](#placeholder)
 -  [Multimedia](#placeholder)
