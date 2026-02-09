@@ -1,4 +1,6 @@
-# Vivaldi
+# Browsers
+
+## Vivaldi
 
 <img src="https://vivaldi.com/wp-content/uploads/mail-horizontal.jpg">
 
@@ -9,7 +11,7 @@
 Compatibility: Windows, Linux, MacOS
 Type: App
 
-# Browsh
+## Browsh
 
 <img style="max-width: 340px;" src="https://www.brow.sh/assets/images/browsh-tty.jpg">
 
@@ -20,7 +22,7 @@ Type: App
 Compatibility: Windows, Linux, MacOS
 Type: App
 
-# Links
+## Links
 
 <img style="max-width: 340px;" src="https://www.tecmint.com/wp-content/uploads/2015/12/Links-Browser.png">
 
@@ -29,3 +31,7 @@ Type: App
 [Homepage](http://links.twibright.com/)
 
 Compatibility: Windows, Linux, MacOS, OS/2
+
+* * * 
+
+[🔙](../README.md)
