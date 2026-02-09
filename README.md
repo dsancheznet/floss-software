@@ -1,13 +1,32 @@
 # Open Source Software list of noteworthy projects
 
 Table of Contents
-- [Desktop Utilities](#sss)
-- [Data transfer](#ddd)
-
-## Desktop Utilities
-- ULauncher
-- Catapult
-
-### ULauncher
-
-### Catapult
+-  [Utilidades de escritorio](#placeholder)
+-  [Navegadores](#placeholder)
+-  [Ofimática](#placeholder)
+-  [Transferencias de datos](#placeholder)
+-  [Multimedia](#placeholder)
+-  [Reproductores multimedia](#placeholder)
+-  [Servicios de multimedia](#placeholder)
+-  [Producción Multimedia](#placeholder)
+-  [Bases de datos](#placeholder)
+-  [Desarrollo](#placeholder)
+-  [Utilidades CLI](#placeholder)
+-  [Utilidades de administración](#placeholder)
+-  [Copias de Seguridad](#placeholder)
+-  [NAS](#placeholder)
+-  [CRM / Cloud Storage](#placeholder)
+-  [Enseñanza](#placeholder)
+-  [ERP / Facturación](#placeholder)
+-  [Comunicaciones](#placeholder)
+-  [CAD / CAM](#placeholder)
+-  [Diseño 3D](#placeholder)
+-  [Utilidades Impresión 3D](#placeholder)
+-  [Manualidades](#placeholder)
+-  [POS](#placeholder)
+-  [Juegos](#placeholder)
+-  [Motores 3D y de juegos](#placeholder)
+-  [Distribuciones Linux](#placeholder)
+-  [Virtualización](#placeholder)
+-  [Misc](#placeholder)
+-  [Videovigilancia](#placeholder)
