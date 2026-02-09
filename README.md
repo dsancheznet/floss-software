@@ -1,7 +1,7 @@
 # Open Source Software list of noteworthy projects
 
 Table of Contents
--  [Desktop](#placeholder)
+-  [Desktop](#CHAPTERS/browsers.md)
 -  [Browsers](#placeholder)
 -  [Office](#placeholder)
 -  [Data transfer](#placeholder)
