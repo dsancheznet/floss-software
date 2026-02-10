@@ -21,7 +21,7 @@ Table of Contents
 -  [Comunitations](CHAPTERS/communications.md)
 -  [CAD / CAM](CHAPTERS/cadcam.md)
 -  [3D Design](CHAPTERS/3design.md)
--  [3D Printing](#placeholder)
+-  [3D Printing](CHAPTERS/3dprinting.md)
 -  [Crafts](#placeholder)
 -  [POS](#placeholder)
 -  [Games](#placeholder)
