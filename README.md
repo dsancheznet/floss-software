@@ -22,7 +22,7 @@ Table of Contents
 -  [CAD / CAM](CHAPTERS/cadcam.md)
 -  [3D Design](CHAPTERS/3design.md)
 -  [3D Printing](CHAPTERS/3dprinting.md)
--  [Crafts](#placeholder)
+-  [Crafts](CHAPTERS/crafts.md)
 -  [POS](#placeholder)
 -  [Games](#placeholder)
 -  [3D & Game Engines](#placeholder)
