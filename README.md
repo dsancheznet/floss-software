@@ -23,7 +23,7 @@ Table of Contents
 -  [3D Design](CHAPTERS/3design.md)
 -  [3D Printing](CHAPTERS/3dprinting.md)
 -  [Crafts](CHAPTERS/crafts.md)
--  [POS](#placeholder)
+-  [POS](CHAPTERS/pos.md)
 -  [Games](#placeholder)
 -  [3D & Game Engines](#placeholder)
 -  [Linux Distros](#placeholder)
