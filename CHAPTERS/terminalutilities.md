@@ -147,6 +147,22 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 [Github](https://github.com/andreafrancia/trash-cli)
 
+## starship
+
+<img style="max-width: 340px;" src="https://starship.rs/demo.webm">
+
+> starship is a minimal, blazing-fast, and inifinetely customizable cross-shell prompt.
+
+[Homepage](https://starship.rs/)
+
+## oh my zsh
+
+<img style="max-width: 340px;" src="https://ohmyz.sh/img/themes/omz-cloud.png">
+
+> Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+
+[Homepage](https://ohmyz.sh/)
+
 * * * 
 
 [🔙](../README.md)
