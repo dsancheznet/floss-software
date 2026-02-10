@@ -2,7 +2,7 @@
 
 ## ULauncher
 
-<img style="max-width: 340px;" src="https://ulauncher.io/assets/images/demo.gif">
+<img style="width: 340px;" src="https://ulauncher.io/assets/images/demo.gif">
 
 > Ulauncher is a fast application launcher for Linux. It's written in Python using GTK+, and features: App Search (fuzzy matching), Calculator, Extensions, Shortcuts, File browser mode and Custom Color Themes
 
@@ -10,7 +10,7 @@
 
 <details>
 <summary>Compatibility</summary>
-![Linux](../IMAGES/linux.png)
+<img src="../IMAGES/linux.png">
 </details>
 
 
