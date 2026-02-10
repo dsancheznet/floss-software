@@ -2,22 +2,19 @@
 
 ## Filezilla
 
+<img style="max-width: 340px;" src="https://filezilla-project.org/images/screenshots/fz3_linux_main.png">
+
 > FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
 
 [Homepage](https://filezilla-project.org)
 
 ## Persepolis
 
+<img style="max-width: 340px;" src="https://persepolisdm.github.io/img/screen/screen7.jpeg">
+
 > Persepolis is a Download Manager & a GUI For aria2. It's written in Python. Persepolis is a Sample of Free and open source software. It's developed For GNU/Linux Distributions, BSDs, macOS and Microsoft Windows.
 
 [Github](https://persepolisdm.github.io/)
-
-## uGet
-
-> uGet is a download manager that combines lightweight resource usage with a very powerful feature set.
-
-[Homepage](https://ugetdm.com/)
-
 
 ## Deluge
 
@@ -26,6 +23,8 @@
 [https://www.deluge-torrent.org](https://www.deluge-torrent.org)
 
 ## Transmission
+
+<img style="max-width: 340px;" src="https://persepolisdm.github.io/img/screen/screen7.jpeg">
 
 > Transmission is an open source, volunteer-based project.
 
@@ -46,6 +45,8 @@
 
 ## Croc
 
+<img style="max-width: 340px;" src="https://persepolisdm.github.io/img/screen/screen7.jpeg">
+
 > croc is a tool that allows any two computers to simply and securely transfer files and folders. 
 
 [Github](https://github.com/schollz/croc)
@@ -57,6 +58,8 @@
 [Homepage](https://www.tribler.org)
 
 ## Copyparty
+
+<img style="max-width: 340px;" src="https://user-images.githubusercontent.com/241032/192042695-522b3ec7-6845-494a-abdb-d1c0d0e23801.png">
 
 > Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
