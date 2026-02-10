@@ -11,7 +11,7 @@ Table of Contents
 -  [Multimedia Production](CHAPTERS/multimediaproduction.md)
 -  [Databases](CHAPTERS/databases.md)
 -  [Development](CHAPTERS/development.md)
--  [Terminal Ultilities](#placeholder)
+-  [Terminal Ultilities](CHAPTERS/terminalutilities.md)
 -  [Administration Utilities](#placeholder)
 -  [Backup](#placeholder)
 -  [NAS](#placeholder)
