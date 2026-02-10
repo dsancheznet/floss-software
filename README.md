@@ -7,7 +7,7 @@ Table of Contents
 -  [Data transfer](CHAPTERS/datatransfer.md)
 -  [Multimedia](CHAPTERS/multimedia.md)
 -  [Multimedia Players](CHAPTERS/multimediaplayers.md)
--  [Multimedia Services](#placeholder)
+-  [Multimedia Services](CHAPTERS/multimediaservers.md)
 -  [Multimedia Production](#placeholder)
 -  [Databases](#placeholder)
 -  [Development](#placeholder)
