@@ -10,8 +10,8 @@
 
 <details>
 <summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/linux.png">
 <img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
 </details>
 
 ### Plugins para ULauncher
@@ -38,8 +38,8 @@
 
 <details>
 <summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/linux.png">
 <img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
 </details>
 
 ## AppImageLauncher
@@ -52,8 +52,8 @@
 
 <details>
 <summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/linux.png">
 <img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
 </details>
 
 * * * 
