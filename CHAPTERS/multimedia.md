@@ -20,7 +20,7 @@
 
 <img style="max-width: 340px;" src="https://www.gimp.org/images/frontpage/wilber-big.png">
 
-> Un sustituto de photoshop potente y disponible en todos sistemas
+> GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes. 
 
 [Homepage](https://www.gimp.org/)
 
@@ -28,7 +28,7 @@
 
 <img style="max-width: 340px;" src="https://media.inkscape.org/media/resources/render/inkscape-0.48-ferrari.png">
 
-> Un sustituto de Illustrator o CorelDraw
+> Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
 
 [Homepage](https://www.inkscape.org/)
 
@@ -52,7 +52,7 @@
 
 <img style="max-width: 340px;" src="https://cdn.openshot.org/static/img/slides/screenshot-background-optimized.jpg">
 
-> Un editor de vídeo no lineal
+> OpenShot Video Editor is a free, open-source video editor for Linux, Mac, and Windows. We designed OpenShot to be an easy to use, quick to learn, and surprisingly powerful video editor. Easily cut, slice, and edit any video or film. Check out the full feature list, view screenshots, or watch videos of OpenShot in action! 
 
 [Homepage](https://www.openshot.org/)
 
@@ -60,7 +60,7 @@
 
 <img style="max-width: 340px;" src="https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif">
 
-> Un editor de GIF animados
+> Peek makes it easy to create short screencasts of a screen area. It was built for the specific use case of recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. With Peek, you simply place the Peek window over the area you want to record and press "Record". Peek is optimized for generating animated GIFs, but you can also directly record to WebM if you prefer.
 
 [Github](https://github.com/phw/peek)
 
@@ -68,7 +68,7 @@
 
 <img style="max-width: 340px;" src="https://ubunlog.com/wp-content/uploads/2018/01/flameshot-lanzador.png">
 
-> Una utilidad para las capturas de pantallas
+> Flameshot is a free and open-source, cross-platform tool to take screenshots with many built-in features to save you time. 
 
 [Github](https://github.com/lupoDharkael/flameshot)
 
@@ -76,7 +76,7 @@
 
 <img style="max-width: 340px;" src="https://camo.githubusercontent.com/28c09c191679bf87815f70548f5d023ca9e2121495bb9d7434e3bdfba93b3ffe/68747470733a2f2f6769746c61622e676e6f6d652e6f72672f474e4f4d452f677468756d622f7261772f6d61737465722f646174612f617070646174612f73732d7669657765722e706e67">
 
-> Gnome image viewer. Soporta varias operaciones de tratado de la imagen.
+> Gnome image viewer.An image viewer and browser utility for the GNOME environment.
 
 [Github](https://github.com/GNOME/gthumb)
 
@@ -84,7 +84,7 @@
 
 <img style="max-width: 340px;" src="https://cdn.kde.org/screenshots/gwenview/gwenview.png">
 
-> KDE image viewer. 
+> Gwenview is a fast and easy to use image viewer by KDE, ideal for browsing and displaying a collection of images.
 
 [Homepage](https://apps.kde.org/en/gwenview/)
 
@@ -92,13 +92,15 @@
 
 <img style="max-width: 340px;" src="http://mirageiv.sourceforge.net/images/ss2.png">
 
-> Visualizador de imágenes independiente.
+> Mirage is a fast and simple GTK+ image viewer. Because it depends only on PyGTK, Mirage is ideal for users who wish to keep their computers lean while still having a clean image viewer. 
 
 [Sourceforge](http://mirageiv.sourceforge.net/)
 
 ## yt-dlp
 
 > yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project.
+
+[Github](https://github.com/yt-dlp/yt-dlp)
 
 ## Handbrake
 
