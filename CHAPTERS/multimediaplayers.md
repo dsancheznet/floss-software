@@ -49,6 +49,14 @@
 
 [Github](https://github.com/SoongNoonien/plattenalbum)
 
+## musicpod
+
+<img style="max-width: 340px;" src="https://github.com/ubuntu-flutter-community/musicpod?tab=readme-ov-file">
+
+> MusicPod is a local music, radio, television and podcast player for Linux Desktop, MacOS and Windows
+
+[Github](https://github.com/ubuntu-flutter-community/musicpod?tab=readme-ov-file)
+
 * * * 
 
 [🔙](../README.md)
