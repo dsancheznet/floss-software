@@ -29,4 +29,4 @@ Table of Contents
 -  [Linux Distros](CHAPTERS/linuxdistros.md)
 -  [Virtualization](CHAPTERS/virt.md)
 -  [Surveillance](CHAPTERS/surveilance.md)
--  [Misc](#placeholder)
+-  [Misc](CHAPTERS/misc.md)
