@@ -45,7 +45,7 @@
 
 ## Croc
 
-<img style="max-width: 340px;" src="https://persepolisdm.github.io/img/screen/screen7.jpeg">
+<img style="max-width: 340px;" src="https://raw.githubusercontent.com/schollz/croc/main/src/install/customization.gif">
 
 > croc is a tool that allows any two computers to simply and securely transfer files and folders. 
 
