@@ -16,7 +16,7 @@ Table of Contents
 -  [Backup](CHAPTERS/backup.md)
 -  [NAS](CHAPTERS/nas.md)
 -  [CRM / Cloud Storage](CHAPTERS/crm.md)
--  [eLearning](#placeholder)
+-  [eLearning](CHAPTERS/elearning.md)
 -  [ERP / Invoicing](#placeholder)
 -  [Comunitations](#placeholder)
 -  [CAD / CAM](#placeholder)
