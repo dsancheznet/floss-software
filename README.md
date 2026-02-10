@@ -17,7 +17,7 @@ Table of Contents
 -  [NAS](CHAPTERS/nas.md)
 -  [CRM / Cloud Storage](CHAPTERS/crm.md)
 -  [eLearning](CHAPTERS/elearning.md)
--  [ERP / Invoicing](#placeholder)
+-  [ERP / Invoicing](CHAPTERS/erp.md)
 -  [Comunitations](#placeholder)
 -  [CAD / CAM](#placeholder)
 -  [3D Design](#placeholder)
