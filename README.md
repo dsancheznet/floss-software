@@ -19,7 +19,7 @@ Table of Contents
 -  [eLearning](CHAPTERS/elearning.md)
 -  [ERP / Invoicing](CHAPTERS/erp.md)
 -  [Comunitations](CHAPTERS/communications.md)
--  [CAD / CAM](#placeholder)
+-  [CAD / CAM](CHAPTERS/cadcam.md)
 -  [3D Design](#placeholder)
 -  [3D Printing](#placeholder)
 -  [Crafts](#placeholder)
