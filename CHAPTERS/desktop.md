@@ -8,6 +8,12 @@
 
 [https://ulauncher.io/](https://ulauncher.io/)
 
+<details>
+<summary>Compatibility</summary>
+![Linux](../IMAGES/linux.png)
+</details>
+
+
 ### Plugins para ULauncher
 
 · Symbols
