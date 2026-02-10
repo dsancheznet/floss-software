@@ -18,7 +18,7 @@ Table of Contents
 -  [CRM / Cloud Storage](CHAPTERS/crm.md)
 -  [eLearning](CHAPTERS/elearning.md)
 -  [ERP / Invoicing](CHAPTERS/erp.md)
--  [Comunitations](#placeholder)
+-  [Comunitations](CHAPTERS/communications.md)
 -  [CAD / CAM](#placeholder)
 -  [3D Design](#placeholder)
 -  [3D Printing](#placeholder)
