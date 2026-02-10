@@ -15,7 +15,7 @@ Table of Contents
 -  [Administration Utilities](CHAPTERS/administrationutilities.md)
 -  [Backup](CHAPTERS/backup.md)
 -  [NAS](CHAPTERS/nas.md)
--  [CRM / Cloud Storage](#placeholder)
+-  [CRM / Cloud Storage](CHAPTERS/crm.md)
 -  [eLearning](#placeholder)
 -  [ERP / Invoicing](#placeholder)
 -  [Comunitations](#placeholder)
