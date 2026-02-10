@@ -30,6 +30,14 @@
 
 [https://otsaloma.io/catapult](https://otsaloma.io/catapult)
 
+## AppImageLauncher
+
+<img style="max-width: 340px;" src="https://github.com/TheAssassin/AppImageLauncher/raw/master/resources/doc/screenshot.png">
+
+> Integrate AppImages to your application launcher with one click, and manage, update and remove them from there. Double-click AppImages to open them, without having to make them executable first.
+
+[Github](https://github.com/TheAssassin/AppImageLauncher)
+
 * * * 
 
 [🔙](../README.md)
