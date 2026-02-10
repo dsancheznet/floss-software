@@ -123,6 +123,22 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 [Github](https://github.com/vacaboja/tg)
 
+## DailyDash ( cli )
+
+<img style="max-width: 340px;" src="https://github.com/SyreeseOfficial/DailyDash/blob/main/assets/dailydash.gif">
+
+> A CLI daily dashboard feature tons of useful tools & data. 
+
+[Github](https://github.com/SyreeseOfficial/DailyDash)
+
+## DailyDash ( Web )
+
+<img style="max-width: 340px;" src="https://raw.githubusercontent.com/james-iles/dailydash/main/d-d-screenshot.png">
+
+> A personal productivity dashboard built with React. Features a live clock, todo list with local storage persistence, and daily inspiration cards. 
+
+[Github](https://github.com/james-iles/dailydash)
+
 * * * 
 
 [🔙](../README.md)
