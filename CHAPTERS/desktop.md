@@ -2,7 +2,7 @@
 
 ## ULauncher
 
-<img style="width: 340px;" src="https://ulauncher.io/assets/images/demo.gif">
+<img style="width: 340px; display: block; margin-left: auto; margin-right: auto;" src="https://ulauncher.io/assets/images/demo.gif">
 
 > Ulauncher is a fast application launcher for Linux. It's written in Python using GTK+, and features: App Search (fuzzy matching), Calculator, Extensions, Shortcuts, File browser mode and Custom Color Themes
 
@@ -30,7 +30,7 @@
 
 ## catapult
 
-<img style="max-width: 340px;" src="https://otsaloma.io/catapult/screenshot.jpg">
+<img style="width: 340px; display: block; margin-left: auto; margin-right: auto;" src="https://otsaloma.io/catapult/screenshot.jpg">
 
 > Catapult is an app launcher for Linux. It allows you to easily launch apps, open files and do basic calculations with a keyboard-driven user interface. Custom plugins and themes can be loaded dynamically.
 
@@ -38,7 +38,7 @@
 
 ## AppImageLauncher
 
-<img style="max-width: 340px;" src="https://github.com/TheAssassin/AppImageLauncher/raw/master/resources/doc/screenshot.png">
+<img style="width: 340px; display: block; margin-left: auto; margin-right: auto;" src="https://github.com/TheAssassin/AppImageLauncher/raw/master/resources/doc/screenshot.png">
 
 > Integrate AppImages to your application launcher with one click, and manage, update and remove them from there. Double-click AppImages to open them, without having to make them executable first.
 
