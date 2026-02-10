@@ -24,7 +24,7 @@
 
 ## Transmission
 
-<img style="max-width: 340px;" src="https://persepolisdm.github.io/img/screen/screen7.jpeg">
+<img style="max-width: 340px;" src="https://transmissionbt.com/assets/images/homepage/carousel_homepage/screenshot_apple_light.png">
 
 > Transmission is an open source, volunteer-based project.
 
