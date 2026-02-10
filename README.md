@@ -6,7 +6,7 @@ Table of Contents
 -  [Office](CHAPTERS/office.md)
 -  [Data transfer](CHAPTERS/datatransfer.md)
 -  [Multimedia](CHAPTERS/multimedia.md)
--  [Multimedia Players](#placeholder)
+-  [Multimedia Players](CHAPTERS/multimediaplayers.md)
 -  [Multimedia Services](#placeholder)
 -  [Multimedia Production](#placeholder)
 -  [Databases](#placeholder)
