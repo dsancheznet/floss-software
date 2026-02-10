@@ -9,7 +9,7 @@ Table of Contents
 -  [Multimedia Players](CHAPTERS/multimediaplayers.md)
 -  [Multimedia Services](CHAPTERS/multimediaservers.md)
 -  [Multimedia Production](CHAPTERS/multimediaproduction.md)
--  [Databases](#placeholder)
+-  [Databases](CHAPTERS/databases.md)
 -  [Development](#placeholder)
 -  [Terminal Ultilities](#placeholder)
 -  [Administration Utilities](#placeholder)
