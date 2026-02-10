@@ -20,7 +20,7 @@ Table of Contents
 -  [ERP / Invoicing](CHAPTERS/erp.md)
 -  [Comunitations](CHAPTERS/communications.md)
 -  [CAD / CAM](CHAPTERS/cadcam.md)
--  [3D Design](#placeholder)
+-  [3D Design](CHAPTERS/3design.md)
 -  [3D Printing](#placeholder)
 -  [Crafts](#placeholder)
 -  [POS](#placeholder)
