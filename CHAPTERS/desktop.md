@@ -11,8 +11,8 @@
 <details>
 <summary>Compatibility</summary>
 <img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/floss.png">
 </details>
-
 
 ### Plugins para ULauncher
 
@@ -36,6 +36,12 @@
 
 [https://otsaloma.io/catapult](https://otsaloma.io/catapult)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/floss.png">
+</details>
+
 ## AppImageLauncher
 
 <img style="width: 340px;" src="https://github.com/TheAssassin/AppImageLauncher/raw/master/resources/doc/screenshot.png">
@@ -43,6 +49,12 @@
 > Integrate AppImages to your application launcher with one click, and manage, update and remove them from there. Double-click AppImages to open them, without having to make them executable first.
 
 [Github](https://github.com/TheAssassin/AppImageLauncher)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/floss.png">
+</details>
 
 * * * 
 
