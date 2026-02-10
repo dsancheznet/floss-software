@@ -25,7 +25,7 @@ Table of Contents
 -  [Crafts](CHAPTERS/crafts.md)
 -  [POS](CHAPTERS/pos.md)
 -  [Games](CHAPTERS/games.md)
--  [3D & Game Engines](#placeholder)
+-  [3D & Game Engines](CHAPTERS/gameengines.md)
 -  [Linux Distros](#placeholder)
 -  [Virtualization](#placeholder)
 -  [Misc](#placeholder)
