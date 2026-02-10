@@ -17,7 +17,7 @@ Compatibility: Linux, Windows, MacOS
 
 > LibreOffice is a free and powerful office suite, and a successor to [OpenOffice.org](http://OpenOffice.org) (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 
-[Homepage](https://www.libreoffice.org](https://www.libreoffice.org)
+[Homepage](https://www.libreoffice.org)
 
 Compatibility: Linux, Windows, MacOS
 <br>Type: App 
