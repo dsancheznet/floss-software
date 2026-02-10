@@ -10,8 +10,7 @@
 
 <details>
 <summary>Compatibility</summary>
-<img src="../IMAGES/linux.png">
-<img src="../IMAGES/windows.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
 </details>
 
 
