@@ -34,7 +34,9 @@ Table of Contents
 
 ### Legend of Icons
 
-| Icon | Meaning |
-+------+---------+
-|<img style="width: 25px;" src="../IMAGES/floss.png">| Open Source Software |
-|<img style="width: 25px;" src="../IMAGES/linux.png">| Runs on Linux |
+| Icon                                                 | Meaning              |
+| :---                                                 | :---                 |
+|<img style="width: 25px;" src="../IMAGES/floss.png">  | Open Source Software |
+|<img style="width: 25px;" src="../IMAGES/linux.png">  | Runs on Linux        |
+|<img style="width: 25px;" src="../IMAGES/windows.png">| Runs on Windows      |
+|<img style="width: 25px;" src="../IMAGES/apple.png">  | Runs on MacOS        |
