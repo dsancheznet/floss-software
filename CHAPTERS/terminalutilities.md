@@ -2,7 +2,7 @@
 
 ## Terminology
 
-<img style="max-width: 340px;" src="">
+<img style="width: 340px;" src="">
 
 > Terminology is a terminal emulator for Linux/BSD/UNIX systems that uses EFL. It has a whole bunch of bells and whistles. Use it as your regular vt100 terminal emulator with all the usual features, such as 256 color support. Terminology is designed to emulate Xterm as closely as possible in most respects.
 
@@ -10,7 +10,7 @@
 
 ## httpie
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/httpie/cli/master/docs/httpie-animation.gif">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/httpie/cli/master/docs/httpie-animation.gif">
 
 > HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers. The http & https commands allow for creating and sending arbitrary HTTP requests. They use simple and natural syntax and provide formatted and colorized output.Una herramienta para sustituir/complementar curl
 
@@ -18,7 +18,7 @@
 
 ## Nice Editor (*ne*)
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/vigna/ne/master/ne.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/vigna/ne/master/ne.png">
 
 > ne is a free (GPL'd) text editor based on the POSIX standard that runs (we hope) on almost every UN\*X machine. ne is easy to use for the beginner, but powerful and fully configurable for the wizard, and most sparing in its resource usage. If you have the resources and the patience to use emacs or the right mental twist to use vi then probably ne is not for you.
 
@@ -26,7 +26,7 @@
 
 ## micro editor ( μ )
 
-<img style="max-width: 340px;" src="https://micro-editor.github.io/screenshots/micro-monokai.png">
+<img style="width: 340px;" src="https://micro-editor.github.io/screenshots/micro-monokai.png">
 
 > Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. It comes as one single, batteries-included, static binary with no dependencies, and you can download and use it right now.
 
@@ -35,7 +35,7 @@
 
 ## Terminal Image Viewer (*timg*)
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/hzeller/timg/master/img/sunflower-term.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/hzeller/timg/master/img/sunflower-term.png">
 
 > A user-friendly terminal image viewer that uses graphic capabilities of terminals (Sixel, Kitty or iterm2), or 24-Bit color capabilities and unicode character blocks if these are not available.
 
@@ -43,7 +43,7 @@
 
 ## Taskwarrior
 
-<img style="max-width: 340px;" src="https://2.bp.blogspot.com/-YsyCqLQRA00/URFjCQQfXZI/AAAAAAAABm4/8cyN2gDY3Rc/s1600/TaskWarrior-Task-List-Tootips.png">
+<img style="width: 340px;" src="https://2.bp.blogspot.com/-YsyCqLQRA00/URFjCQQfXZI/AAAAAAAABm4/8cyN2gDY3Rc/s1600/TaskWarrior-Task-List-Tootips.png">
 
 > Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
 It is flexible, fast, and unobtrusive. It does its job then gets out of your way.
@@ -52,7 +52,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## colorls
 
-<img style="max-width: 340px;" src="https://user-images.githubusercontent.com/17109060/32149049-2a63ae48-bd25-11e7-943c-5ceed25bd693.png">
+<img style="width: 340px;" src="https://user-images.githubusercontent.com/17109060/32149049-2a63ae48-bd25-11e7-943c-5ceed25bd693.png">
 
 > A Ruby script that colorizes the ls output with color and icons. Here are the screenshots of working example on an iTerm2 terminal (Mac OS), oh-my-zsh with powerlevel9k theme and powerline nerd-font + awesome-config font with the Solarized Dark color theme.
 
@@ -60,7 +60,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## eza
 
-<img style="max-width: 340px;" src="https://eza.rocks/demo.gif">
+<img style="width: 340px;" src="https://eza.rocks/demo.gif">
 
 > eza is a modern, maintained replacement for the venerable file-listing command-line program ls that ships with Unix and Linux operating systems, giving it more features and better defaults. It uses colours to distinguish file types and metadata. It knows about symlinks, extended attributes, and Git. And it’s small, fast, and just one single binary.
 
@@ -68,7 +68,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## duf
 
-<img style="max-width: 340px;" src="https://github.com/muesli/duf/raw/master/duf.png">
+<img style="width: 340px;" src="https://github.com/muesli/duf/raw/master/duf.png">
 
 > Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
 
@@ -94,7 +94,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## tmpmail
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/sdushantha/tmpmail/master/images/demo.gif">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/sdushantha/tmpmail/master/images/demo.gif">
 
 > tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. It uses 1secmail's API to receive emails.
 
@@ -102,7 +102,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## ticker
 
-<img style="max-width: 340px;" src="https://github.com/achannarasappa/ticker/raw/master/docs/ticker.gif">
+<img style="width: 340px;" src="https://github.com/achannarasappa/ticker/raw/master/docs/ticker.gif">
 
 > Terminal stock watcher and stock position tracker
 
@@ -117,7 +117,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## Bashtop / bpytop
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/aristocratos/bpytop/master/Imgs/main.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/aristocratos/bpytop/master/Imgs/main.png">
 
 > Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
@@ -127,7 +127,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## battop
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/svartalf/rust-battop/master/assets/screenshot.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/svartalf/rust-battop/master/assets/screenshot.png">
 
 > battop is an interactive viewer, similar to top, htop and other *top utilities, but about the batteries installed in your notebook.
 
@@ -135,7 +135,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## f2
 
-<img style="max-width: 340px;" src="https://camo.githubusercontent.com/c5914458560460160ba78f93714e90bb14f7f1e3169b18f3122dd07fbade8f34/68747470733a2f2f66322e66726573686d616e2e746563682f6173736574732f322e442d75784c5239542e706e67">
+<img style="width: 340px;" src="https://camo.githubusercontent.com/c5914458560460160ba78f93714e90bb14f7f1e3169b18f3122dd07fbade8f34/68747470733a2f2f66322e66726573686d616e2e746563682f6173736574732f322e442d75784c5239542e706e67">
 
 > F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 
@@ -149,7 +149,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## starship
 
-<img style="max-width: 340px;" src="https://starship.rs/demo.webm">
+<img style="width: 340px;" src="https://starship.rs/demo.webm">
 
 > starship is a minimal, blazing-fast, and inifinetely customizable cross-shell prompt.
 
@@ -157,7 +157,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## oh my zsh
 
-<img style="max-width: 340px;" src="https://ohmyz.sh/img/themes/omz-cloud.png">
+<img style="width: 340px;" src="https://ohmyz.sh/img/themes/omz-cloud.png">
 
 > Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 

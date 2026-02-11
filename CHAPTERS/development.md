@@ -2,7 +2,7 @@
 
 ## Regex Tester
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/artemanufrij/regextester/master/screenshots/Screenshot.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/artemanufrij/regextester/master/screenshots/Screenshot.png">
 
 > A Regex Tester GUI
 
@@ -10,7 +10,7 @@
 
 ## Gogs
 
-<img style="max-width: 340px;" src="https://gogs.io/img/screenshots/2.png">
+<img style="width: 340px;" src="https://gogs.io/img/screenshots/2.png">
 
 > The Gogs project aims to build a simple, stable and extensible self-hosted Git service that can be set up in the most painless way. With Go, this can be done with an independent binary distribution across all platforms that Go supports, including Linux, macOS, Windows and ARM-based systems.
 
@@ -18,7 +18,7 @@
 
 ## Thonny
 
-<img style="max-width: 340px;" src="https://thonny.org/img/screenshot.png">
+<img style="width: 340px;" src="https://thonny.org/img/screenshot.png">
 
 > Thonny is a Python IDE meant for learning programming.
 

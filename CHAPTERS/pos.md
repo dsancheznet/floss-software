@@ -8,7 +8,7 @@
 
 ## unicenta POS
 
-<img style="max-width: 340px;" src="https://unicenta.com/wp-content/uploads/2018/02/uniCenta_logo_168_48.png">
+<img style="width: 340px;" src="https://unicenta.com/wp-content/uploads/2018/02/uniCenta_logo_168_48.png">
 
 > uniCenta oPOS powerful commercial-grade open source Point Of Sale. Day-In, Day-Out uniCenta software helps thousands of people all around the world save their business time and money.
 

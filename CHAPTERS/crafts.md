@@ -2,7 +2,7 @@
 
 ## Valentina
 
-<img style="max-width: 340px;" src="https://smart-pattern.com.ua/static/pshop/images/valentina-logo.png">
+<img style="width: 340px;" src="https://smart-pattern.com.ua/static/pshop/images/valentina-logo.png">
 
 > Un programa de patronaje open source
 
@@ -10,7 +10,7 @@
 
 ## Ink/Stitch
 
-<img style="max-width: 340px;" src="https://inkstitch.org/assets/images/inkstitch-logo.svg">
+<img style="width: 340px;" src="https://inkstitch.org/assets/images/inkstitch-logo.svg">
 
 > Un programa de bordado open source, basado en Inkscape
 
@@ -18,7 +18,7 @@
 
 ## Embroiderymodder
 
-<img style="max-width: 340px;" src="https://www.libembroidery.org/images/features-realrender-1.png">
+<img style="width: 340px;" src="https://www.libembroidery.org/images/features-realrender-1.png">
 
 > Embroidermodder is a free machine embroidery software program.
 

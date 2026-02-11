@@ -2,7 +2,7 @@
 
 ## Ultimaker Cura
 
-<img style="max-width: 340px;" src="https://ultimaker.com/wp-content/uploads/2023/04/Cura-hero-image-1.png">
+<img style="width: 340px;" src="https://ultimaker.com/wp-content/uploads/2023/04/Cura-hero-image-1.png">
 
 > Looking to streamline your 3D printing process? UltiMaker Cura is your guide. Its powerful open-source slicing engine and 400+ customizable settings take the guesswork out of printing. Regular updates and expert-tested features, you can create with confidence – knowing you have the tools to succeed.
 
@@ -10,7 +10,7 @@
 
 ## Slic3r
 
-<img style="max-width: 340px;" src="https://slic3r.org/about/screenshot.jpg">
+<img style="width: 340px;" src="https://slic3r.org/about/screenshot.jpg">
 
 > Un slicer para la impresión 3D
 

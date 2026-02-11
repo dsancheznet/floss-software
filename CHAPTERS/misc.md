@@ -4,7 +4,7 @@
 
 ## Flarum Software for forums
 
-<img style="max-width: 340px;" src="https://flarum.org/assets/flarum/home-screenshot.png">
+<img style="width: 340px;" src="https://flarum.org/assets/flarum/home-screenshot.png">
 
 > Modern, fast & free community software for small to enterprise communities that is extensible, scalable and open source!
 
@@ -12,7 +12,7 @@
 
 ## Cloudpanel Hosting Control Panel
 
-<img style="max-width: 340px;" src="https://www.cloudpanel.io/docs/v2/img/cloudpanel.png?v=0.0.2">
+<img style="width: 340px;" src="https://www.cloudpanel.io/docs/v2/img/cloudpanel.png?v=0.0.2">
 
 > CloudPanel is a free software to configure and manage a server with an obsessive focus on simplicity.
 Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
@@ -21,7 +21,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Subsurface
 
-<img style="max-width: 340px;" src="https://subsurface-divelog.org/static/images/subsurface-icon.png">
+<img style="width: 340px;" src="https://subsurface-divelog.org/static/images/subsurface-icon.png">
 
 > Subsurface can plan and track single and multi-tank dives using air, Nitrox or TriMix. It allows tracking of dive locations including GPS coordinates (which can also conveniently be entered using a map interface), logging of equipment used and names of other divers, and lets users rate dives and provide additional notes.
 
@@ -41,7 +41,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Celestia
 
-<img style="max-width: 340px;" src="https://celestiaproject.space/images/gallery/earth.jpg">
+<img style="width: 340px;" src="https://celestiaproject.space/images/gallery/earth.jpg">
 
 > The free space simulation that lets you explore our universe in three dimensions.
 
@@ -49,7 +49,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## osquery
 
-<img style="max-width: 340px;" src="">
+<img style="width: 340px;" src="">
 
 > osquery is an operating system instrumentation framework for Windows, OS X (macOS), and Linux. The tools make low-level operating system analytics and monitoring both performant and intuitive.
 
@@ -63,7 +63,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## ShredOS
 
-<img style="max-width: 340px;" src="https://github.com/PartialVolume/shredos.x86_64/raw/master/images/example_wipe.gif">
+<img style="width: 340px;" src="https://github.com/PartialVolume/shredos.x86_64/raw/master/images/example_wipe.gif">
 
 > Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe 
 
@@ -77,7 +77,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Skrooge
 
-<img style="max-width: 340px;" src="https://skrooge.org/images/before_mass_update.png">
+<img style="width: 340px;" src="https://skrooge.org/images/before_mass_update.png">
 
 > Skrooge allows you to manage your personal finances, powered by KDE. Thanks to its many features, it is one of the most powerful way to enter, follow, and analyze your expenses.
 
@@ -85,7 +85,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Easy Appointments
 
-<img style="max-width: 340px;" src="https://easyappointments.org/wp-content/uploads/2023/12/booking-page-screenshot-square-2.png">
+<img style="width: 340px;" src="https://easyappointments.org/wp-content/uploads/2023/12/booking-page-screenshot-square-2.png">
 
 > Manage all your appointments with flexible calendar displays and layouts. Handle all the customer information and their booking history more easily than ever. 
 
@@ -93,7 +93,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Chatwood
 
-<img style="max-width: 340px;" src="https://user-images.githubusercontent.com/2246121/282255784-3d1994ec-d895-4ff5-ac68-d819987e1869.png#gh-dark-mode-only">
+<img style="width: 340px;" src="https://user-images.githubusercontent.com/2246121/282255784-3d1994ec-d895-4ff5-ac68-d819987e1869.png#gh-dark-mode-only">
 
 > Chatwoot gives you all the tools to manage conversations, build relationships and delight your customers from one place.
 
@@ -101,7 +101,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## Teamspeak
 
-<img style="max-width: 340px;" src="https://teamspeak.com/user/themes/teamspeak/images/logo_inverse.svg">
+<img style="width: 340px;" src="https://teamspeak.com/user/themes/teamspeak/images/logo_inverse.svg">
 
 > Use crystal clear sound to communicate with your team mates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime.
 
@@ -111,7 +111,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 > Build your own digital signage network with piSignage and raspberry pi - Lean, reliable, scalable and full HD 
 
-<img style="max-width: 340px;" src="https://pisignage.com/homepage/img/screenshots/players.png">
+<img style="width: 340px;" src="https://pisignage.com/homepage/img/screenshots/players.png">
 
 [Github](https://github.com/colloqi/pisignage)
 
@@ -119,13 +119,13 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 > Build your own digital signage network with piSignage and raspberry pi - Lean, reliable, scalable and full HD 
 
-<img style="max-width: 340px;" src="https://www.watchuseek.com/attachments/tg-ver-0-png.8494954/">
+<img style="width: 340px;" src="https://www.watchuseek.com/attachments/tg-ver-0-png.8494954/">
 
 [Github](https://github.com/vacaboja/tg)
 
 ## DailyDash ( cli )
 
-<img style="max-width: 340px;" src="https://github.com/SyreeseOfficial/DailyDash/blob/main/assets/dailydash.gif">
+<img style="width: 340px;" src="https://github.com/SyreeseOfficial/DailyDash/blob/main/assets/dailydash.gif">
 
 > A CLI daily dashboard feature tons of useful tools & data. 
 
@@ -133,7 +133,7 @@ Run Static Websites, PHP, Node.js, Reverse Proxies, and Python Applications.
 
 ## DailyDash ( Web )
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/james-iles/dailydash/main/d-d-screenshot.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/james-iles/dailydash/main/d-d-screenshot.png">
 
 > A personal productivity dashboard built with React. Features a live clock, todo list with local storage persistence, and daily inspiration cards. 
 
