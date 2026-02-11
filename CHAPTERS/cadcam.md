@@ -48,6 +48,12 @@
 
 [Github](https://github.com/multigcs/viaconstructor)
 
+## inkcut
+
+<img style="width: 340px;" src="https://user-images.githubusercontent.com/380158/34274274-d529df46-e665-11e7-8a6f-48d9a56209da.gif">
+
+> Inkcut is an open source application for controlling 2D plotters, cutters, engravers, and CNC machines.
+
 * * * 
 
 [🔙](../README.md)
