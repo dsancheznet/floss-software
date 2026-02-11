@@ -8,14 +8,8 @@
 
 [Homepage](https://www.onlyoffice.com/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: App 
 
 ## LibreOffice
 
@@ -25,14 +19,8 @@
 
 [Homepage](https://www.libreoffice.org)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: App 
 
 ## Marker
 
@@ -40,14 +28,10 @@
 
 > Marker is a markdown editor for linux made with GTK+-3.0
 
-[Github](https://github.com/fabiocolacio/Marker)
+Compatibility: Linux 
+<br>Type: App
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+[Github](https://github.com/fabiocolacio/Marker)
 
 ## Apostrophe
 
@@ -57,12 +41,8 @@
 
 [Github](https://github.com/ApostropheEditor/Apostrophe)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: App
 
 ## Remarkable
 
@@ -72,14 +52,8 @@
 
 [Homepage](https://remarkableapp.github.io/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows
+<br>Type: App
 
 ## OpenPaperwork
 
@@ -89,14 +63,8 @@
 
 [Homepage](https://openpaper.work/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows
+<br>Type: App
 
 ## paperless-ngx
 
@@ -106,14 +74,8 @@
 
 [Homepage](https://docs.paperless-ngx.com/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Browser based
+<br>Type: Docker, Linux ( Python )
 
 ## papermerge
 
@@ -123,14 +85,8 @@
 
 [Homepage](https://papermerge.com/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Browser based
+<br>Type: Docker, Linux ( Python )
 
 ## Joplin
 
@@ -141,13 +97,8 @@
 
 [Homepage](https://joplinapp.org/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows, MacOSX, iOS, Android 
+<br>Type: App, Datasync
 
 ## Anchor Notes
 
@@ -157,14 +108,8 @@
 
 [Github](https://github.com/ZhFahim/anchor?tab=readme-ov-file)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Browser based
+<br>Type: Docker
 
 
 ## Sigil
@@ -175,11 +120,8 @@
 
 [Homepage](https://sigil-ebook.com/sigil/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: App 
 
 ## Pandoc
 
@@ -187,13 +129,8 @@
 
 [Homepage](https://pandoc.org/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: Command line tool
 
 ## Bookworm
 
@@ -203,11 +140,8 @@
 
 [Homepage](https://babluboy.github.io/bookworm/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux
+<br>Type: App
 
 ## Rnote
 
@@ -217,11 +151,8 @@
 
 [Github](https://rnote.flxzt.net/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux, Windows, MacOS
+<br>Type: App
 
 ## TaskBoard
 
@@ -231,13 +162,8 @@
 
 [Homepage](https://taskboard.matthewross.me)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Browser based 
+<br>Type: Linux ( PHP ) 
 
 ## PDFMix Tool
 
@@ -247,11 +173,8 @@
 
 [Homepage](https://scarpetta.eu/pdfmixtool/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux
+<br>Type: App
 
 ## Stirling PDF
 
@@ -261,14 +184,8 @@
 
 [Github](https://github.com/Stirling-Tools/Stirling-PDF)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/docker.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows.png">
-<img style="width: 25px;" src="../IMAGES/apple.png">
-</details>
+Compatibility: Browser based
+<br>Type: Docker
 
 ## xournal++
 
@@ -278,11 +195,8 @@
 
 [Github](https://xournalpp.github.io/)
 
-<details>
-<summary>Compatibility</summary>
-<img style="width: 25px;" src="../IMAGES/floss.png">
-<img style="width: 25px;" src="../IMAGES/linux.png">
-</details>
+Compatibility: Linux, Windows, MacOS, Android
+<br>Type: App
 
 * * * 
 
