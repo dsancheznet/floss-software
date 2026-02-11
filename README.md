@@ -30,3 +30,11 @@ Table of Contents
 -  [Virtualization](CHAPTERS/virt.md)
 -  [Surveillance](CHAPTERS/surveilance.md)
 -  [Misc](CHAPTERS/misc.md)
+
+
+### Legend of Icons
+
+| Icon | Meaning |
++------+---------+
+|<img style="width: 25px;" src="../IMAGES/floss.png">| Open Source Software |
+|<img style="width: 25px;" src="../IMAGES/linux.png">| Runs on Linux |
