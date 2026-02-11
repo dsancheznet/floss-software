@@ -34,9 +34,13 @@ Table of Contents
 
 ### Legend of Icons
 
-| Icon                                                 | Meaning              |
-| :---                                                 | :---                 |
+| Icon                                              | Meaning              |
+| :---                                              | :---                 |
 |<img style="width: 25px;" src="IMAGES/floss.png">  | Open Source Software |
 |<img style="width: 25px;" src="IMAGES/linux.png">  | Runs on Linux        |
 |<img style="width: 25px;" src="IMAGES/windows.png">| Runs on Windows      |
 |<img style="width: 25px;" src="IMAGES/apple.png">  | Runs on MacOS        |
+|<img style="width: 25px;" src="IMAGES/ios.png">    | Runs on iOS          |
+|<img style="width: 25px;" src="IMAGES/android.png">| Runs on Android      |
+|<img style="width: 25px;" src="IMAGES/docker.png"> | Runs in a Docker     |
+|<img style="width: 25px;" src="IMAGES/console.png">| Is a terminal app    |
