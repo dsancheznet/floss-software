@@ -2,7 +2,7 @@
 
 ## OnlyOffice
 
-<img style="max-width: 340px;" src="https://static-www.onlyoffice.com/images/mainpage/may2018/editors/document.jpg">
+<img style="width: 340px;" src="https://static-www.onlyoffice.com/images/mainpage/may2018/editors/document.jpg">
 
 > OnlyOffice is a productivity software suite developed by Ascensio System SIA, a Latvian software company founded in 2009. It is available as an open source community edition and a proprietary enterprise edition.
 
@@ -13,7 +13,7 @@ Compatibility: Linux, Windows, MacOS
 
 ## LibreOffice
 
-<img style="max-width: 340px;" src="https://www.libreoffice.org/assets/Uploads/Discover/Screenshots/Screenshot-01-New-EN.png">
+<img style="width: 340px;" src="https://www.libreoffice.org/assets/Uploads/Discover/Screenshots/Screenshot-01-New-EN.png">
 
 > LibreOffice is a free and powerful office suite, and a successor to [OpenOffice.org](http://OpenOffice.org) (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 
@@ -24,7 +24,7 @@ Compatibility: Linux, Windows, MacOS
 
 ## Marker
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/fabiocolacio/Marker/master/help/C/figures/scrot.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/fabiocolacio/Marker/master/help/C/figures/scrot.png">
 
 > Marker is a markdown editor for linux made with GTK+-3.0
 
@@ -35,7 +35,7 @@ Compatibility: Linux
 
 ## Apostrophe
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/ApostropheEditor/Apostrophe/master/screenshots/main.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/ApostropheEditor/Apostrophe/master/screenshots/main.png">
 
 > Apostrophe is a GTK+ based distraction free Markdown editor, mainly developed by Wolf Vollprecht and Manuel Genovés. It uses pandoc as backend for markdown parsing and offers a very clean and sleek user interface.
 
@@ -46,7 +46,7 @@ Compatibility: Linux, Windows, MacOS
 
 ## Remarkable
 
-<img style="max-width: 340px;" src="https://remarkableapp.github.io/images/main_screenshot.png">
+<img style="width: 340px;" src="https://remarkableapp.github.io/images/main_screenshot.png">
 
 > Remarkable is a powerful markdown editor available for Linux and Windows. It is fully featured and customizable. You can download the Linux version for free (or donate if you wish).
 
@@ -57,7 +57,7 @@ Compatibility: Linux, Windows
 
 ## OpenPaperwork
 
-<img style="max-width: 340px;" src="https://gitlab.gnome.org/World/OpenPaperwork/paperwork-screenshots/raw/master/1.0/main_window.png">
+<img style="width: 340px;" src="https://gitlab.gnome.org/World/OpenPaperwork/paperwork-screenshots/raw/master/1.0/main_window.png">
 
 > With Paperwork, scan or import your personal documents and find them back in a snap  
 
@@ -68,7 +68,7 @@ Compatibility: Linux, Windows
 
 ## paperless-ngx
 
-<img style="max-width: 340px;" src="https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png">
+<img style="width: 340px;" src="https://docs.paperless-ngx.com/assets/screenshots/documents-smallcards.png">
 
 > Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
 
@@ -79,7 +79,7 @@ Compatibility: Browser based
 
 ## papermerge
 
-<img style="max-width: 340px;" src="https://papermerge.com/_next/static/media/pmg-bw.8b10d27c.png">
+<img style="width: 340px;" src="https://papermerge.com/_next/static/media/pmg-bw.8b10d27c.png">
 
 > Store, organize and index scanned documents in PDF, JPEG and TIFF formats. Instantly find relevant information using full text, tags and metadata based search
 
@@ -90,7 +90,7 @@ Compatibility: Browser based
 
 ## Joplin
 
-<img style="max-width: 340px;" src="https://joplinapp.org/images/AllClients.jpg">
+<img style="width: 340px;" src="https://joplinapp.org/images/AllClients.jpg">
 
 > With Joplin Cloud, share your notes with your friends, family or colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others.
  
@@ -102,7 +102,7 @@ Compatibility: Linux, Windows, MacOSX, iOS, Android
 
 ## Anchor Notes
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/zhfahim/anchor/main/.github/assets/screenshot-web-dark.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/zhfahim/anchor/main/.github/assets/screenshot-web-dark.png">
 
 > Anchor focuses on speed, privacy, simplicity, and reliability across mobile and web. Notes are stored locally, editable offline, and synced across devices when online.
 
@@ -114,7 +114,7 @@ Compatibility: Browser based
 
 ## Sigil
 
-<img style="max-width: 340px;" src="https://www.linuxadictos.com/wp-content/uploads/sigil-2.jpg.webp">
+<img style="width: 340px;" src="https://www.linuxadictos.com/wp-content/uploads/sigil-2.jpg.webp">
 
 > Sigil es un editor de libros EPUB multiplataforma.
 
@@ -134,7 +134,7 @@ Compatibility: Linux, Windows, MacOS
 
 ## Bookworm
 
-<img style="max-width: 340px;" src="https://babluboy.github.io/bookworm/images/BookwormLibraryView.png">
+<img style="width: 340px;" src="https://babluboy.github.io/bookworm/images/BookwormLibraryView.png">
 
 > Read the books you love without having to worry about different format complexities like epub, pdf, mobi, cbr, etc.
 
@@ -145,7 +145,7 @@ Compatibility: Linux
 
 ## Rnote
 
-<img style="max-width: 340px;" src="ihttps://raw.githubusercontent.com/flxzt/rnote/main/crates/rnote-ui/data/screenshots/overview.png">
+<img style="width: 340px;" src="ihttps://raw.githubusercontent.com/flxzt/rnote/main/crates/rnote-ui/data/screenshots/overview.png">
 
 > Rnote is an open-source vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures. It is targeted at students, teachers and those who own a drawing tablet and provides features like Pdf and picture import and export, an infinite canvas and an adaptive UI for big and small screens.
 
@@ -156,7 +156,7 @@ Compatibility: Linux, Windows, MacOS
 
 ## TaskBoard
 
-<img style="max-width: 340px;" src="https://taskboard.matthewross.me/img/boards.043340f1.png">
+<img style="width: 340px;" src="https://taskboard.matthewross.me/img/boards.043340f1.png">
 
 > A Kanban-inspired app for keeping track of things that need to get done. The goal of TaskBoard is to provide a simple and clean interface to a functional and minimal application for keeping track of tasks. It's not trying to be the next Trello or LeanKit.
 
@@ -167,7 +167,7 @@ Compatibility: Browser based
 
 ## PDFMix Tool
 
-<img style="max-width: 340px;" src="https://scarpetta.eu/pdfmixtool/merge_files_hu13644043828272693205.png">
+<img style="width: 340px;" src="https://scarpetta.eu/pdfmixtool/merge_files_hu13644043828272693205.png">
 
 > PDF Mix Tool is a simple and lightweight application that allows you to perform common editing operations on PDF files.
 
@@ -178,7 +178,7 @@ Compatibility: Linux
 
 ## Stirling PDF
 
-<img style="max-width: 340px;" src="https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/refs/heads/main/images/home-light.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/refs/heads/main/images/home-light.png">
 
 > This is a powerful locally hosted web based PDF manipulation tool using docker that allows you to perform various operations on PDF files, such as splitting merging, converting, reorganizing, adding images, rotating, compressing, and more. This locally hosted web application started as a 100% ChatGPT-made application and has evolved to include a wide range of features to handle all your PDF needs.
 
@@ -189,7 +189,7 @@ Compatibility: Browser based
 
 ## xournal++
 
-<img style="max-width: 340px;" src="https://xournalpp.github.io/img/Physics%20Problem.png">
+<img style="width: 340px;" src="https://xournalpp.github.io/img/Physics%20Problem.png">
 
 > Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.
 
