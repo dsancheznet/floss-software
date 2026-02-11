@@ -1,4 +1,4 @@
-# Ofimática
+# Office
 
 ## OnlyOffice
 
