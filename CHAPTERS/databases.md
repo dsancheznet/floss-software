@@ -8,6 +8,13 @@
 
 [Github](https://github.com/dbcli/mycli/)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+</details>
+
 ## nocodb
 
 <img style="width: 340px;" src="https://cdn.nocodb.com/marketing-site/20260212161204/images/Grid-View-p-2000.png">
