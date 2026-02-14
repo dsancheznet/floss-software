@@ -297,7 +297,7 @@ collect, organize, annotate, cite, and share research.
 <summary>Compatibility</summary>
 <img style="width: 25px;" src="../IMAGES/floss.png">
 <img style="width: 25px;" src="../IMAGES/linux.png">
-<img style="width: 25px;" src="../IMAGES/windows">
+<img style="width: 25px;" src="../IMAGES/windows.png">
 <img style="width: 25px;" src="../IMAGES/apple.png">
 <img style="width: 25px;" src="../IMAGES/ios.png">
 <img style="width: 25px;" src="../IMAGES/android.png">
