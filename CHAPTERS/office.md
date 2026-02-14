@@ -2,7 +2,7 @@
 
 ## OnlyOffice
 
-<img style="width: 340px;" src="https://user-images.githubusercontent.com/554369/235172015-555565a0-3df0-4e5d-b621-23e84fec82a3.png">
+<img style="width: 340px;" src="https://static-site.onlyoffice.com/public/images/templates/document-editor/hero/hero@2x.png">
 
 > OnlyOffice is a productivity software suite developed by Ascensio System SIA, a Latvian software company founded in 2009. It is available as an open source community edition and a proprietary enterprise edition.
 
@@ -83,12 +83,13 @@
 
 ## frogmouth
 
-<img style="width: 340px;" src="https://remarkableapp.github.io/images/main_screenshot.png">
+<img style="width: 340px;" src="https://user-images.githubusercontent.com/554369/235172015-555565a0-3df0-4e5d-b621-23e84fec82a3.png">
 
 > Frogmouth is a Markdown viewer / browser for your terminal, built with Textual. Frogmouth can open *.md files locally or via a URL. There is a familiar browser-like navigation stack, history, bookmarks, and table of contents.
 
 [Github](https://github.com/textualize/frogmouth)
 
+<details>
 <summary>Compatibility</summary>
 <img style="width: 25px;" src="../IMAGES/floss.png">
 <img style="width: 25px;" src="../IMAGES/console.png">
