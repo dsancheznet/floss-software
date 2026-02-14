@@ -284,6 +284,25 @@
 <img style="width: 25px;" src="../IMAGES/linux.png">
 </details>
 
+## zotero
+
+<img style="width: 340px;" src="https://www.zotero.org/static/images/home/screenshot-7.0@2x.png">
+
+> Zotero is a free, easy-to-use tool to help you
+collect, organize, annotate, cite, and share research.
+
+[Homepage](https://github.com/dsancheznet/floss-software/edit/main/CHAPTERS/office.md)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/windows">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+<img style="width: 25px;" src="../IMAGES/ios.png">
+<img style="width: 25px;" src="../IMAGES/android.png">
+</details>
+
 * * * 
 
 [🔙](../README.md)
