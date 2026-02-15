@@ -8,6 +8,12 @@
 
 [Gitlab](https://gitlab.gnome.org/World/lollypop)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+</details>
+
 ## VLC
 
 <img style="width: 340px;" src="https://images.videolan.org/images/screenshots/skins.png">
@@ -16,6 +22,13 @@
 
 [Homepage](https://www.videolan.org/vlc/)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/windows.png">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+</details>
 
 ## kew
 
@@ -25,6 +38,13 @@
 
 [Github](https://github.com/ravachol/kew)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
 ## cmus
 
 <img style="width: 340px;" src="https://cmus.github.io/cmus-2.4.3-osx.png">
@@ -32,6 +52,13 @@
 > cmus is a small, fast and powerful console music player for Unix-like operating systems.
 
 [Github](https://cmus.github.io/)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+</details>
 
 ## ncspot
 
@@ -41,6 +68,29 @@
 
 [Github](https://github.com/hrkfdn/ncspot)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/windows.png">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+</details>
+
+## NoctaVox
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/Jaxx497/NoctaVox/refs/heads/master/docs/header.gif">
+
+> NoctaVox is a lightweight, plug and play, TUI music player for local music.
+
+[Github](https://github.com/Jaxx497/NoctaVox)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
 ## Plattenalbum
 
 <img style="width: 340px;" src="https://github.com/SoongNoonien/plattenalbum/raw/master/screenshots/main_window.png">
@@ -49,6 +99,12 @@
 
 [Github](https://github.com/SoongNoonien/plattenalbum)
 
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+</details>
+
 ## musicpod
 
 <img style="width: 340px;" src="https://github.com/ubuntu-flutter-community/musicpod?tab=readme-ov-file">
@@ -56,6 +112,14 @@
 > MusicPod is a local music, radio, television and podcast player for Linux Desktop, MacOS and Windows
 
 [Github](https://github.com/ubuntu-flutter-community/musicpod?tab=readme-ov-file)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/windows.png">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+</details>
 
 * * * 
 
