@@ -344,7 +344,9 @@ collect, organize, annotate, cite, and share research.
 <img style="width: 25px;" src="../IMAGES/floss.png">
 <img style="width: 25px;" src="../IMAGES/linux.png">
 <img style="width: 25px;" src="../IMAGES/apple.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
 </details>
+
 * * * 
 
 [🔙](../README.md)
