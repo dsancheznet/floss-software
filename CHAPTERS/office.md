@@ -319,6 +319,32 @@ collect, organize, annotate, cite, and share research.
 <img style="width: 25px;" src="../IMAGES/android.png">
 </details>
 
+## betula
+
+<img style="width: 340px;" src="https://camo.githubusercontent.com/96f76a1461216105b53b92edf65fbcc3a7e35de394ddc60e2a1a7828379d18b0/68747470733a2f2f626574756c612e6d79636f727268697a612e77696b692f6d656469612f626574756c612d76312e362e302e706e67">
+
+> Betula is a single-user self-hosted federated bookmark manager with Fediverse support and archives.
+
+[Github](https://github.com/bouncepaw/betula)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+</details>
+
+## batdoc
+
+> cat had catdoc. bat gets batdoc. Dumps .doc, .docx, .xls, .xlsx, .pptx, and .pdf files to your terminal as markdown. To a tty it syntax-highlights and pages (using bat); piped, it gives you plain text.
+
+[Github](https://github.com/daemonp/batdoc)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/floss.png">
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/apple.png">
+</details>
 * * * 
 
 [🔙](../README.md)
