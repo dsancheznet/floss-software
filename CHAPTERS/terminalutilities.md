@@ -157,11 +157,19 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## oh my zsh
 
-<img style="width: 340px;" src="https://ohmyz.sh/img/themes/omz-cloud.png">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif">
 
 > Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
 [Homepage](https://ohmyz.sh/)
+
+## couik
+
+<img style="width: 340px;" src="https://private-user-images.githubusercontent.com/121851593/550116562-d8bf2f78-28b2-4988-8806-8f353a0cb6a0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE0NDI3NjIsIm5iZiI6MTc3MTQ0MjQ2MiwicGF0aCI6Ii8xMjE4NTE1OTMvNTUwMTE2NTYyLWQ4YmYyZjc4LTI4YjItNDk4OC04ODA2LThmMzUzYTBjYjZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxOFQxOTIxMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzJmZWM4NWNiMTUyOWViZjkxNzhlNTY4ZDRhOWJkMjk0NjA2MTgyMGQ4OWE4ODliYzM1OWViNmUzNmNmNmJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.D64MzwS9Le8MApVcg1yyP_g6eIqPdXOGgLIfaBLtieg">
+
+> Couik is a terminal-based typing test designed for speed, aesthetics, and simplicity. Built with Bubble Tea, it provides a smooth and responsive experience right in your CLI.
+
+[Github](https://github.com/Fadilix/couik)
 
 * * * 
 
