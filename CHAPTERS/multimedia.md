@@ -96,6 +96,14 @@
 
 [Sourceforge](http://mirageiv.sourceforge.net/)
 
+## Lightning Image Viewer
+
+<img style="width: 340px;" src="https://private-user-images.githubusercontent.com/1289078/541903110-eec3a227-2afb-4249-ae61-b0775d228884.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE0NDIxMjMsIm5iZiI6MTc3MTQ0MTgyMywicGF0aCI6Ii8xMjg5MDc4LzU0MTkwMzExMC1lZWMzYTIyNy0yYWZiLTQyNDktYWU2MS1iMDc3NWQyMjg4ODQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIxOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMThUMTkxMDIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDljYmE3NTg1YzdjNWJiYjhhMmQ3M2I5NDdmMDczZDFhNTE0NjU0ZGZiZDQ1MWFhNDAwOTQwZmMwOGFiOWJlMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ZZxLfj4ojOhlkMvRp4sWmz6lMVux4WNhAhPprlxxmkk">
+
+> Lightning Image Viewer is fast and lightweight desktop image viewer featuring minimalistic "transparent fullscreen overlay" UI/UX with controls similar to map apps.
+
+[Github](https://github.com/shatsky/lightning-image-viewer/)
+
 ## yt-dlp
 
 > yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project.
