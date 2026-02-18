@@ -171,6 +171,14 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 [Github](https://github.com/Fadilix/couik)
 
+## up ( Ultimate Plumber )
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/akavel/up/master/up.gif">
+
+> up is the Ultimate Plumber, a tool for writing Linux pipes in a terminal-based UI interactively, with instant live preview of command results.
+
+[Github](https://github.com/akavel/up)
+
 * * * 
 
 [🔙](../README.md)
