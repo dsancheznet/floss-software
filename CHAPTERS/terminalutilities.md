@@ -149,7 +149,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## starship
 
-<img style="width: 340px;" src="https://starship.rs/demo.webm">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif">
 
 > starship is a minimal, blazing-fast, and inifinetely customizable cross-shell prompt.
 
@@ -157,7 +157,7 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 ## oh my zsh
 
-<img style="width: 340px;" src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif">
+<img style="width: 340px;" src="https://ohmyz.sh/img/themes/omz-robbyrussell.png">
 
 > Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
