@@ -179,6 +179,14 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 [Github](https://github.com/akavel/up)
 
+## csview
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/wfxr/i/master/csview-screenshot.png">
+
+> A high performance csv viewer with cjk/emoji support.
+
+[Github](https://github.com/wfxr/csview)
+
 * * * 
 
 [🔙](../README.md)
