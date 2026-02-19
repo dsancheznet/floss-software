@@ -2,7 +2,7 @@
 
 ## Terminology
 
-<img style="width: 340px;" src="">
+<img style="width: 340px;" src="https://www.enlightenment.org/_media/aa/shot-2021-12-21_13-48-16.png">
 
 > Terminology is a terminal emulator for Linux/BSD/UNIX systems that uses EFL. It has a whole bunch of bells and whistles. Use it as your regular vt100 terminal emulator with all the usual features, such as 256 color support. Terminology is designed to emulate Xterm as closely as possible in most respects.
 
