@@ -63,6 +63,20 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 [Homepage](https://taskwarrior.org/)
 
+## corner
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/bantamhq/corner/main/docs/examples/hero.gif">
+
+> Terminal-based task journal for developers. Capture ideas without leaving your workflow, find them when you need them. 
+
+[Github](https://github.com/bantamhq/corner)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
 ## ratado
 
 <img style="width: 340px;" src="https://github.com/milosmiric/ratado/blob/main/docs/screenshot_tasks.png">
