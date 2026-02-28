@@ -41,6 +41,19 @@
 
 [Github](https://github.com/hzeller/timg)
 
+##  rsimg
+
+<img style="width: 340px;" src="https://github.com/kirchberger/rsimg/blob/main/recording/recording.gif">
+
+> Terminal image viewer written in rust which displays images with unicode charactors. Currently uses crossterm and zune as dependancies. This is a inspired by catimg.
+
+[Github](https://github.com/kirchberger/rsimg)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+</details>
+
 ## Taskwarrior
 
 <img style="width: 340px;" src="https://2.bp.blogspot.com/-YsyCqLQRA00/URFjCQQfXZI/AAAAAAAABm4/8cyN2gDY3Rc/s1600/TaskWarrior-Task-List-Tootips.png">
@@ -49,6 +62,35 @@
 It is flexible, fast, and unobtrusive. It does its job then gets out of your way.
 
 [Homepage](https://taskwarrior.org/)
+
+## ratado
+
+<img style="width: 340px;" src="https://github.com/milosmiric/ratado/blob/main/docs/screenshot_tasks.png">
+
+> A fast, keyboard-driven terminal task manager built with Rust and Ratatui 
+
+[Github](https://github.com/milosmiric/ratado)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+## lule
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/warpcli/lule/develop/resources/a_gif.gif">
+
+> A command line tool to generate 8bit ANSI colors from wallpaper (an enhanced version of pywal but in rust) There is the old bash version in: https://github.com/warpwm/lule_bash
+
+[Github](https://github.com/warpcli/lule)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
 
 ## colorls
 
