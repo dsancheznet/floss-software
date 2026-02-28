@@ -243,6 +243,90 @@ It is flexible, fast, and unobtrusive. It does its job then gets out of your way
 
 [Github](https://github.com/wfxr/csview)
 
+
+## grab
+
+<img style="width: 340px;" src="https://github.com/skorotkiewicz/grab/blob/main/docs/intro.png">
+
+> Asynchronous file downloader written in Rust. grab combines the simplicity of wget with the power of multi-threaded concurrency, parallel file downloads, and modern async I/O.
+
+[Github](https://github.com/skorotkiewicz/grab)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+##  nacrypt
+
+> A simple and easy-to-use file encryption utility.
+
+[Github](https://github.com/basicallygit/nacrypt)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+## markterm
+
+<img style="width: 340px;" src="https://camo.githubusercontent.com/6c53a2c2344479988399a57326cb82efda3438b060b527848c6c2a3516c6292c/68747470733a2f2f72616c73696e612e6d652f6d61726b7465726d2f6d61726b7465726d2d6c696768742e706e67">
+
+>Markterm is a library and program to render Markdown to a terminal. It's inspired by Glow and implemented using Markd. It can also render Markdown to Markdown if you really need that :-)
+
+[Github](https://github.com/ralsina/markterm)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+## ClockTemp
+
+<img style="width: 340px;" src="https://raw.githubusercontent.com/arthur-dnts/ClockTemp/main/assets/Screenshot.png">
+
+> ClockTemp is a TUI clock inspired by tty-clock that displays the time, date, temperature and more.
+
+[Github](https://github.com/arthur-dnts/ClockTemp)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+## tanin
+
+https://private-user-images.githubusercontent.com/54112754/550119943-2cbfa09f-52fd-4816-939c-ed92435fa605.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIyOTk4NTAsIm5iZiI6MTc3MjI5OTU1MCwicGF0aCI6Ii81NDExMjc1NC81NTAxMTk5NDMtMmNiZmEwOWYtNTJmZC00ODE2LTkzOWMtZWQ5MjQzNWZhNjA1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI4VDE3MjU1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmODE5YWU2ZWUyMjcyZTJiM2ZhNzgxMjA1YzY0ZGU1NmY1NGQ2ZGYwZDVmNzE3YzgyODhkYTUxYTRiYWZlYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ks7r-eQe-Kte7APCBxb9RP6J7Vcdn4gFdn7pNmH4_Co
+
+> A simple, focused TUI ambient noise generator written in Rust. Focus, relax, or sleep with your favorite background sounds directly from your terminal.
+
+[Github](https://github.com/AnonMiraj/Tanin)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+##  matcha
+
+<img style="width: 340px;" src="https://github.com/floatpane/matcha/blob/master/public/assets/demo.gif">
+
+> A powerful, feature-rich email client for your terminal. Built with Go and the Bubble Tea TUI framework, Matcha brings a beautiful, modern email experience to the command line with support for rich content, multiple accounts, and advanced terminal features.
+
+[Github](https://github.com/floatpane/matcha)
+
+<details>
+<summary>Compatibility</summary>
+<img style="width: 25px;" src="../IMAGES/linux.png">
+<img style="width: 25px;" src="../IMAGES/console.png">
+</details>
+
+
 * * * 
 
 [🔙](../README.md)
