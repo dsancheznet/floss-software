@@ -107,7 +107,7 @@
 
 ## musicpod
 
-<img style="width: 340px;" src="https://github.com/ubuntu-flutter-community/musicpod?tab=readme-ov-file">
+<img style="width: 340px;" src="https://raw.githubusercontent.com/ubuntu-flutter-community/musicpod/refs/heads/main/.github/images/album_dark_linux.png">
 
 > MusicPod is a local music, radio, television and podcast player for Linux Desktop, MacOS and Windows
 
